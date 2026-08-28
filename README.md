@@ -5,7 +5,9 @@
 [![Current release](https://img.shields.io/github/release/dvorka/hstr.svg)](https://github.com/dvorka-oss/hstr/releases)
 [![GitHub issues](https://img.shields.io/github/issues/dvorka/hstr.svg?maxAge=360)](https://github.com/dvorka-oss/hstr/issues)
 [![All releases downloads](https://img.shields.io/github/downloads/dvorka/hstr/total.svg)](https://github.com/dvorka-oss/hstr/releases)
+<!--
 [![License](https://img.shields.io/github/license/dvorka/hstr?color=%23fe0000)](https://github.com/dvorka-oss/hstr/blob/master/LICENSE)
+-->
 
 Easily view, navigate and search your **command history** with shell history TUI suggest box for
 [bash](https://www.gnu.org/software/bash/) and [zsh](CONFIGURATION.md#zsh-history-settings).
