@@ -30,6 +30,7 @@ or **bookmark** your favorite commands.
 
 <!-- Check [video](http://www.youtube.com/watch?v=sPF29NyXe2U) tutorial. -->
 
+<!--
 ## Packages
 
 <table><tr><td>
@@ -37,6 +38,7 @@ or **bookmark** your favorite commands.
     <img src="https://repology.org/badge/vertical-allrepos/hstr.svg?columns=4" alt="Packaging status" align="left">
   </a>
 </td></tr></table>
+-->
 
 ## Installation
 
